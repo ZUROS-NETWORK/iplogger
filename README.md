@@ -1,3 +1,3 @@
-# IP Logger for Minecraft Account Recovery
+# Recuerdame Auth — Recuperación de cuentas de Minecraft
 
-IP Logger is a tool designed to facilitate the recovery of Minecraft accounts from AuthMe for users who have forgotten their passwords or have been hacked.
+Recuerdame es una herramienta creada para facilitar la recuperación de cuentas de Minecraft protegidas con AuthMe, útil para quienes han olvidado su contraseña o han sido víctimas de un hackeo.
